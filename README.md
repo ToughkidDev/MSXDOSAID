@@ -2,8 +2,7 @@
 MSX DOS AID Monitor 
 
 
-#CST MSXDOS-AID2 Monitor v0.40
-			ToughkidCST 2013. 12
+# CST MSXDOS-AID2 Monitor v0.40  - ToughkidCST 2013. 12
 
 
 
@@ -22,7 +21,7 @@ MSX DOS AID Monitor
 ---------------------------------------------------------------
 
 
-MSXDOS-AID2 에 대하여 ...
+## MSXDOS-AID2 에 대하여 ...
   
 ![MSXDOSAID MDAMonitor](mdamon.jpg)
 
@@ -49,7 +48,7 @@ mglUx나 mglOCM에서의 롬파일 디버깅을 위해 사용하기도 합니다
 사용자에 따라 매우 다양한 용도와, 효과를 얻어낼 수 있는 것이기에, 
 MSXDOS-AID2의 효용성에 대한 설명은 이정도로 마치도록 합니다. 
 
-----기능 
+## 기능 
 
 MSXDOS-AID2는 두가지파일을 포함합니다. 
 
@@ -61,9 +60,9 @@ MSXDOS-AID2는 두가지파일을 포함합니다.
 			카트릿지 슬롯의 럭셔리박스에 그대로 로딩합니다. 
 
 
----- 사용방법
+## 사용방법
 
-인터페이스 설명 - 
+### 인터페이스 설명 - 
 
 		1. 현재 모니터링되고  있는 카트릿지 슬롯입니다. 
 		2. 현재 어드레스의 메모리 내용을 비트맵 표시합니다. 
