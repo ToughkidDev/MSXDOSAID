@@ -2,17 +2,17 @@
 MSX DOS AID Monitor 
 
 
-CST MSXDOS-AID2 Monitor v0.40
+## CST MSXDOS-AID2 Monitor v0.40
 			ToughkidCST 2013. 12
 
 
 
-v0.40 - 개선사항 
+### v0.40 - 개선사항 
 
 	1. 럭셔리박스 슬롯 테스터 모듈 수정, 
 	2. MSX1, MSX-DOS1 의 환경에서 화면출력 비정상 버그 수정
 
-알려진 버그  - 
+### 알려진 버그  - 
 
 	-  MSX-DOS1 일부 MSX환경에서 메모리 Edit기능 비정상 작동의 버그가 
 	   확인되었습니다. 
