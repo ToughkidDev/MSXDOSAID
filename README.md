@@ -18,6 +18,7 @@ v0.40 - 개선사항
 	   확인되었습니다. 
 
 
+https://github.com/ToughkidDev/MSXDOSAID/edit/master/mdamon.jpg
 
 ---------------------------------------------------------------
 
