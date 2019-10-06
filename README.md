@@ -119,9 +119,7 @@ mdaMon.com의 모든 기능으로 접근하는데에는 기본적으로 펑션�
 ## SAVp#2 (f4) : 
 	PAGE 2 (8000h~cfffh)의 활성화된 슬롯 메모리를 덤프 세이브합니다. 
 	세이브파일은 루트디렉토리에 PAGE-2.BIN 으로 저장됩니다. 
-
-## 사용 예 (YOUTUBE LINK) : 
-	https://youtu.be/M7zjI2TsKjw
+	- 사용 예 (YOUTUBE LINK) : https://youtu.be/M7zjI2TsKjw
 
 
 ### SLOT1 (f6) : 
